@@ -17,3 +17,4 @@
 //= require jquery/dist/jquery
 //= require jquery-ujs/src/rails.js
 //= require turbolinks/dist/turbolinks.js
+//= require_tree ./hoge
